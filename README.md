@@ -2,7 +2,7 @@
 
 AppNest is a full-stack web application inspired by [Bolt](https://bolt.new/), allowing users to create, edit, and deploy applications seamlessly from their browser. It provides an intuitive, AI-powered development environment for rapid web app creation.
 
-## Features
+## Features 👀
 
 - **AI-Assisted Development** – Generate and modify code efficiently using AI-based prompts.
 - **Real-Time Editing** – Edit and preview applications instantly with an in-browser development environment.
