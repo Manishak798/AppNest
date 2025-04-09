@@ -10,7 +10,7 @@ AppNest is a full-stack web application inspired by [Bolt](https://bolt.new/), a
 - **Full-Stack Support** – Includes backend and frontend capabilities with database integration.
 - **Collaborative Coding** – Share and collaborate on projects with team members in real time.
 
-## Installation
+## Installation ⌨️
 
 1. Clone the repository:
    ```sh
