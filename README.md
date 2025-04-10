@@ -27,7 +27,7 @@ AppNest is a full-stack web application inspired by [Bolt](https://bolt.new/), a
    ```
 4. Access the application in your browser at `http://localhost:3000`.
 
-## Tech Stack
+## Tech Stack 🧑‍💻
 
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js
