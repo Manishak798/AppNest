@@ -38,7 +38,7 @@ AppNest is a full-stack web application inspired by [Bolt](https://bolt.new/), a
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with enhancements or bug fixes.
 
-## License
+## License 📃
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
